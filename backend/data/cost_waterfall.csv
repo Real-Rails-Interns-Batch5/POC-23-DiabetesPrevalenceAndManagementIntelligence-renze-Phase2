@@ -1,0 +1,9 @@
+label,value,kind
+Baseline care,3200,base
++ Medication,2400,add
++ Monitoring,900,add
++ Outpatient,1800,add
++ Complications,4600,add
++ Inpatient,3100,add
+− Screening savings,-1700,sub
+Total / patient / yr,0,total

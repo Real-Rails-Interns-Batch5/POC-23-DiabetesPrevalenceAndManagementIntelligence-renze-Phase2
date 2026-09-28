@@ -1,0 +1,9 @@
+[
+  { "code": "AUH", "name": "Abu Dhabi", "lat": 24.4539, "lon": 54.3773, "population": 3800000, "prevalence": 16.3, "screened": 71, "diagnosed": 68, "hba1cControlled": 41 },
+  { "code": "DXB", "name": "Dubai", "lat": 25.2048, "lon": 55.2708, "population": 3600000, "prevalence": 15.4, "screened": 66, "diagnosed": 72, "hba1cControlled": 44 },
+  { "code": "SHJ", "name": "Sharjah", "lat": 25.3463, "lon": 55.4209, "population": 1800000, "prevalence": 17.8, "screened": 58, "diagnosed": 61, "hba1cControlled": 36 },
+  { "code": "AJM", "name": "Ajman", "lat": 25.4052, "lon": 55.5136, "population": 540000, "prevalence": 18.9, "screened": 49, "diagnosed": 55, "hba1cControlled": 33 },
+  { "code": "UAQ", "name": "Umm Al Quwain", "lat": 25.5647, "lon": 55.5534, "population": 90000, "prevalence": 19.6, "screened": 44, "diagnosed": 52, "hba1cControlled": 31 },
+  { "code": "RAK", "name": "Ras Al Khaimah", "lat": 25.7895, "lon": 55.9432, "population": 410000, "prevalence": 18.2, "screened": 53, "diagnosed": 58, "hba1cControlled": 35 },
+  { "code": "FUJ", "name": "Fujairah", "lat": 25.1288, "lon": 56.3265, "population": 260000, "prevalence": 17.1, "screened": 51, "diagnosed": 57, "hba1cControlled": 34 }
+]
